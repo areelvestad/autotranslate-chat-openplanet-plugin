@@ -15,6 +15,4 @@ Tested on ShootMania servers with a self-hosted LibreTranslate server.
 7. Enter an API key if your server requires one.
 8. Open the in-game chat history to let the plugin read messages.
 
-Use **Collapse chat** to hide the translated messages. Click **Show translated chat** to bring them back.
-
 LibreTranslate: https://libretranslate.com/
