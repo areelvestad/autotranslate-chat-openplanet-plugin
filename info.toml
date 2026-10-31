@@ -1,0 +1,9 @@
+[meta]
+name = "Autotranslate Chat"
+author = "areelvestad"
+category = "Utilities"
+version = "0.1.0"
+description = "Translate observed ShootMania chat messages with LibreTranslate."
+
+[script]
+dependencies = []
